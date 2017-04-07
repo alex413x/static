@@ -1,0 +1,17 @@
+html {
+  font-size: 16px;
+}
+[class^="col"] {
+    background: rgba(255, 69, 69, 0.73);
+    border: 1px solid rgba(255, 69, 69, 0.8);
+}
+.toggle-stuff {
+  text-align: center;
+  margin: 30px 0;
+}
+h2 {
+    margin: 30px 0 15px;
+}
+h4 {
+  margin-bottom: 20px;
+}

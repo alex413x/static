@@ -1,0 +1,14 @@
+/**
+ * Foundation for Sites by ZURB
+ * Version 6.2.3
+ * foundation.zurb.com
+ * Licensed under MIT Open Source
+ */
+.section, .top_section, .main_section, .bottom_section {
+  font: 100% Helvetica, sans-serif;
+  color: #aaaccc;
+  border: 1px solid #ccc;
+  display: block; }
+
+.main_section {
+  margin: 15px auto; }

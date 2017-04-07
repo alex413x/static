@@ -1,0 +1,27 @@
+@import "settings";
+@import "foundation";
+
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #aaaccc;
+
+.section {
+  font: 100% $font-stack;
+  color: $primary-color;
+  border: 1px solid #ccc;
+  display: block;
+}
+
+.top_section {
+  @extend .section;
+}
+
+.main_section {
+  @extend .section;
+  margin: 15px auto;
+  //vertical-align: middle;
+  //height: 200px;
+}
+
+.bottom_section {
+  @extend .section;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "la_website",
+  "authors": [
+    "user <blah@blah>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "6.2.3",
+    "angular": "v1.5.6"
+  }
+}
